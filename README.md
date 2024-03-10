@@ -2,11 +2,12 @@ Hello, my name is Louis,
 I have at least 7 years of software and network related experience in  
 Mobile/Web/Full Stack/Backend/Frontend Engineering and Development.  
 
-<h3 align="center">A passionate frontend developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=watbud&label=Profile%20views&color=0e75b6&style=flat" alt="watbud" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=watbud" alt="watbud" /></a> </p>
 <p align="left">
 </p>
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer">
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
