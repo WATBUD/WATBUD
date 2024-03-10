@@ -1,3 +1,5 @@
+Hello, my name is Louis, I have at least 7 years of software and network related experience -
+
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
