@@ -1,4 +1,7 @@
-Hello, my name is Louis, I have at least 7 years of software and network related experience in Mobile/Web/Full Stack/Backend/Frontend Engineering and Development.
+Hello, my name is Louis,  
+I have at least 7 years of software and network related experience in  
+Mobile/Web/Full Stack/Backend/Frontend Engineering and Development.  
+
 # Languages and Tools  
 <!--  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WATBUD)](https://github.com/anuraghazra/github-readme-stats)-->
 
