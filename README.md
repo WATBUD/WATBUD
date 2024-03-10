@@ -1,9 +1,12 @@
-Hello, my name is Louis,  
-I have at least 7 years of software and network related experience in  
-Mobile/Web/Full Stack/Backend/Frontend Engineering and Development.  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=watbud&label=Profile%20views&color=0e75b6&style=flat" alt="watbud" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=watbud" alt="watbud" /></a> </p>
+<h4 align="center">Hello, my name is Louis,  
+I have at least 7 years of software and network related experience in  
+Mobile/Web/Full Stack/Backend/Frontend Engineering and Development.  </h4>
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=watbud&label=Profile%20views&color=0e75b6&style=flat" alt="watbud" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=watbud&row=2&column=3" alt="watbud" /></a> 
+</p>
 <p align="left">
 </p>
 
