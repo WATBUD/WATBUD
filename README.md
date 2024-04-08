@@ -93,7 +93,6 @@ Maintain existing products, Git and related version control processes and team d
 [Angular Side Project](https://demolistui.netlify.app/DemoListUI)  
 
 ---------⌨Part-time Freelance RWD Project-based Work---------  
-[Part-time Freelance RWD Project-based Work 1](https://chaca.taocart.com/oricre_2022/)  
 [Part-time Freelance RWD Project-based Work 2](https://www.cupoy.com/openvino-2022)  
 
 ---------⌨React Side Project---------  
