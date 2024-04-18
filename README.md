@@ -78,14 +78,14 @@ alt="jenkins" width="40" height="40"/>
 
 ### My Resume  
 Louis
-App Engineer
--------- ⌨Basic Skills---------
+App Engineer<BR>
+-------- ⌨Basic Skills---------<BR>
 ⌨Web/Language Skill:
 - HTML/CSS/JavaScript/.NET/Node.js/React/Angular/PHP/Cshare
-⌨Framework:
+<BR>⌨Framework:
 - Angular/Winform/.Net(MVC/Webform)/Unity3D/Construct 2/React/React Native
-⌨Database:MySql/MSSQL
-⌨Computer skill：
+<BR>⌨Database:MySql/MSSQL
+<BR>⌨Computer skill：
 - ☁️Win7/Win10 system operation Office(Excel Word PowerPoint)/Power Query/VBA Macro/Windows Automation Program
 - ☁️Refill system/hardware disassembly/assembly computer
 - ☁️PowerDirector、Adobe Premiere video editing
