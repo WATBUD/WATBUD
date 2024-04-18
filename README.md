@@ -80,28 +80,20 @@ alt="jenkins" width="40" height="40"/>
 Louis
 App Engineer<BR>
 -------- ⌨Basic Skills---------<BR>
-⌨Web/Language Skill:
-- HTML/CSS/JavaScript/.NET/Node.js/React/Angular/PHP/Cshare
-<BR>⌨Framework:
-- Angular/Winform/.Net(MVC/Webform)/Unity3D/Construct 2/React/React Native
-<BR>⌨Database:MySql/MSSQL
-<BR>⌨Computer skill：
-- ☁️Win7/Win10 system operation Office(Excel Word PowerPoint)/Power Query/VBA Macro/Windows Automation Program
-- ☁️Refill system/hardware disassembly/assembly computer
-- ☁️PowerDirector、Adobe Premiere video editing
-⌨Development experience:
-- At least 7 years of software and web related experience
+Languages: HTML, CSS, JavaScript, .NET, Node.js, PHP, C#, TypeScript
+<br>Frameworks: Angular, Winform, .NET (MVC,Webform,API, Core), Unity3D, Construct 2, React, React Native, Electron
+<br>Environment:docker,XAMPP,IIS/Databases: MySQL, MSSQL,
+<br>Computer Skills:Windows 7/10/11,Microsoft Office suite (Excel, Word, PowerPoint), Windows ,Automation Program(bat/ps1/exe/windows task Scheduler),Power Query, PowerShell, VBA Macro,PowerDirector
+Hardware assembly/disassembly and system refill 
 
-1. PHP+MYSQL+XAMPP Front-end webpage and server setup
-2. NETWebForm/MVC+MSSQL+IIS Front-end webpage and server setup
-3. Unity3D+MYSQL+Python+Lua Gaming webpage, mobile game development
-4. NETCore6+MYSQL/Docker+IIS+React Native FE and BE Server Setup
-5. Angular FE Webpage and Node BE Server Setup
-6. Angular/Electron/Typescript/Node.js Computer headset, mouse, keyboard, software design and development
-7. Develop automated reports and programs(bat/ps1/exe/windows task Scheduler)
-8. Responsible for developing mobile phone dual-platform app (iOS & Android) with React Native.
-Maintain existing products, Git and related version control processes and team developers to continuously develop new functions.
-
+PHP+MYSQL+XAMPP Front-end webpage and server setup
+<br>NETWebForm/MVC+MSSQL+IIS Front-end webpage and server setup
+<br>Unity3D+MYSQL+Python+Lua Gaming webpage, mobile game development
+<br>NETCore6+MYSQL/Docker+IIS+React Native FE and BE Server Setup
+<br>Angular FE Webpage and Node BE Server Setup
+<br>Angular/Electron/Typescript/Node.js Computer headset, mouse, keyboard, software design and development
+<br>Develop automated reports and programs(bat/ps1/exe/windows task Scheduler)
+<br>Responsible for developing mobile phone dual-platform app (iOS & Android) with React Native. Maintain existing products, Git and related version control processes and team developers to continuously develop new functions.
 
 
 ---------⌨Youtube teaching channel---------  
