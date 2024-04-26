@@ -1,7 +1,5 @@
 
-<h4 align="center">Hello, my name is Louis,  
-I have at least 8 years of software and network related experience in  
-Mobile/Web/Full Stack/Backend/Frontend Engineering and Development.  </h4>
+<h4 align="center">Hello, my name is Louis. I have at least 8 years of software and network-related experience in mobile software/Web/desktop software/full-stack comprehensive experience and development.  </h4>
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=watbud&label=Profile%20views&color=0e75b6&style=flat" alt="watbud" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
