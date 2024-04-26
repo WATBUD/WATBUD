@@ -1,6 +1,6 @@
 
 <h4 align="center">Hello, my name is Louis,  
-I have at least 7 years of software and network related experience in  
+I have at least 8 years of software and network related experience in  
 Mobile/Web/Full Stack/Backend/Frontend Engineering and Development.  </h4>
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=watbud&label=Profile%20views&color=0e75b6&style=flat" alt="watbud" /> </p>
