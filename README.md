@@ -76,13 +76,12 @@ alt="jenkins" width="40" height="40"/>
 
 ### My Resume  
 Louis App Engineer
-<BR>-------- ⌨Basic Skills---------
+<BR>⌨Development experience: At least 8 years of software and web related experience: 
 <br>Languages: HTML, CSS, JavaScript, .NET, Node.js, PHP, C#, TypeScript
 <br>Frameworks: Angular, Winform, .NET (MVC, Webform, API, Core), Unity3D, Construct 2, React, React Native, Electron
 <br>Environment: Docker, IIS / Databases: MySQL, MSSQL, Git, Github, GitLab
 <br>Computer Skills: Windows 7 / 10 / 11 system, Microsoft Office suite (Excel, Word, PowerPoint), XAMPP, Windows Automation Program (bat / ps1 / exe / windows task Scheduler), Power Query, PowerShell, VBA Macro, PowerDirector
 <br>Hardware assembly / disassembly and system refill
-<br>⌨Development experience: At least 8 years of software and web related experience :
 <br>PHP+MYSQL+XAMPP Front-end webpage and server setup
 <br>NETWebForm/MVC+MSSQL+IIS Front-end webpage and server setup
 <br>Unity3D+MYSQL+Python+Lua Gaming webpage, mobile game development
@@ -91,8 +90,6 @@ Louis App Engineer
 <br>Angular/Electron/Typescript/Node.js Computer headset, mouse, keyboard, software design and development
 <br>Develop automated reports and programs(bat/ps1/exe/windows task Scheduler)
 <br>Responsible for developing mobile phone dual-platform app (iOS & Android) with React Native. Maintain existing products, Git and related version control processes and team developers to continuously develop new functions.
-
-
 ---------⌨Youtube teaching channel---------  
 [YouTube Teaching Channel](https://www.youtube.com/playlist?list=PLqWQtwjE91RyJR2sKrK_-TXHVLCdrJno7)  
 
