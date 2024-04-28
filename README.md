@@ -75,14 +75,17 @@ alt="jenkins" width="40" height="40"/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WATBUD&layout=compact&theme=tokyonight&langs_count=20)
 
 ### My Resume  
-Louis
-App Engineer<BR>
--------- ⌨Basic Skills---------<BR>
-Languages: HTML, CSS, JavaScript, .NET, Node.js, PHP, C#, TypeScript
-<br>Frameworks: Angular, Winform, .NET (MVC,Webform,API, Core), Unity3D, Construct 2, React, React Native, Electron
-<br>Environment:docker,XAMPP,IIS/Databases: MySQL, MSSQL,
-<br>Computer Skills:Windows 7/10/11,Microsoft Office suite (Excel, Word, PowerPoint), Windows ,Automation Program(bat/ps1/exe/windows task Scheduler),Power Query, PowerShell, VBA Macro,PowerDirector
-Hardware assembly/disassembly and system refill 
+Louis App Engineer
+<BR>-------- ⌨Basic Skills---------
+<br>Languages: HTML, CSS, JavaScript, .NET, Node.js, PHP, C#, TypeScript
+<br>Frameworks: Angular, Winform, .NET (MVC, Webform, API, Core), Unity3D, Construct 2, React, React Native, Electron
+<br>Environment: Docker, IIS / Databases: MySQL, MSSQL, Git, Github, GitLab
+<br>Computer Skills: Windows 7 / 10 / 11 system, Microsoft Office suite (Excel, Word, PowerPoint), XAMPP, Windows Automation Program (bat / ps1 / exe / windows task Scheduler), Power Query, PowerShell, VBA Macro, PowerDirector
+<br>Hardware assembly / disassembly and system refill
+<br>⌨Development experience: At least 8 years of software and web related experience
+
+
+
 
 PHP+MYSQL+XAMPP Front-end webpage and server setup
 <br>NETWebForm/MVC+MSSQL+IIS Front-end webpage and server setup
