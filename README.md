@@ -90,8 +90,10 @@ Louis App Engineer
 <br>Angular/Electron/Typescript/Node.js Computer headset, mouse, keyboard, software design and development
 <br>Develop automated reports and programs(bat/ps1/exe/windows task Scheduler)
 <br>Responsible for developing mobile phone dual-platform app (iOS & Android) with React Native. Maintain existing products, Git and related version control processes and team developers to continuously develop new functions.
+<br>
 [⌨Youtube teaching channel](https://www.youtube.com/playlist?list=PLqWQtwjE91RyJR2sKrK_-TXHVLCdrJno7)  
 [⌨C# WebAPI_Documentation](http://watbud.ddns.net:7777/api)
+<br>
 [⌨Node.js WebAPI_Documentation](http://watbud.ddns.net:9421)   
 [⌨Glorious core official ebsite](https://www.pcgamingrace.com/pages/glorious-core)  
 [⌨Glorious Model O Wireless Video](https://www.youtube.com/watch?v=9B3cLne5g_g)  
