@@ -90,53 +90,33 @@ Louis App Engineer
 <br>Angular/Electron/Typescript/Node.js Computer headset, mouse, keyboard, software design and development
 <br>Develop automated reports and programs(bat/ps1/exe/windows task Scheduler)
 <br>Responsible for developing mobile phone dual-platform app (iOS & Android) with React Native. Maintain existing products, Git and related version control processes and team developers to continuously develop new functions.
----------⌨Youtube teaching channel---------  
-[YouTube Teaching Channel](https://www.youtube.com/playlist?list=PLqWQtwjE91RyJR2sKrK_-TXHVLCdrJno7)  
-
----------⌨C# WebAPI_Documentation---------  
-[C# Server Backend UI Documentation](http://watbud.ddns.net:7777/api)
-
----------⌨Node.js WebAPI_Documentation---------  
-[Node.js Server Backend UI Documentation](http://watbud.ddns.net:9421)
-
----------⌨Software Application---------    
-☁️ [Glorious core Software](https://www.pcgamingrace.com/pages/glorious-core)  
-☁️ [Glorious Model O Wireless Video](https://www.youtube.com/watch?v=9B3cLne5g_g)  
-☁️ [Glorious Model D Wireless Video](https://www.youtube.com/watch?v=o_eL-9ImsLw)  
-☁️ [Gamakay Mk61 Software](https://www.youtube.com/watch?v=5sSL1Ze9Npk)  
-☁️ [Lian Li Uni Fan 1.0SL](https://www.youtube.com/watch?v=wIdmHoPk-yM&t=393s)  
-☁️ [Lian Li Uni Fan 2.0AL](https://www.youtube.com/watch?v=8dQ7X_shq_w)  
-
----------⌨Fan animation front-end Demo---------  
-[Fan Animation Front-End Demo](https://fananimation.netlify.app/)
-
----------⌨Keyboard front-end Demo---------  
-[Keyboard Front-End Demo - RGB](https://demolistui.netlify.app/KeyBoard_RGB)  
-[Keyboard Front-End Demo - Numpad](https://demolistui.netlify.app/numpad-keyboard)  
-[Strike6](https://strike6.netlify.app/)  
-[Perixx](https://demolistui.netlify.app/perixx)  
-
----------⌨Angular Side Project---------  
-[Angular Side Project](https://demolistui.netlify.app/DemoListUI)  
-
----------⌨Part-time Freelance RWD Project-based Work---------  
-[Part-time Freelance RWD Project-based Work 2](https://www.cupoy.com/openvino-2022)  
-
----------⌨React Side Project---------  
-[React Side Project](https://reactwebsitepractice.netlify.app/)  
-
----------⌨Unity Gambling products----------  
-[Unity Gambling products](https://www.youtube.com/watch?v=rIM79ogfYr4&list=UUDMOsKP4fT1gHzU4y5iVuMA&index=9)  
-
+[⌨Youtube teaching channel](https://www.youtube.com/playlist?list=PLqWQtwjE91RyJR2sKrK_-TXHVLCdrJno7)  
+[⌨C# WebAPI_Documentation](http://watbud.ddns.net:7777/api)
+[⌨Node.js WebAPI_Documentation](http://watbud.ddns.net:9421)   
+[⌨Glorious core official ebsite](https://www.pcgamingrace.com/pages/glorious-core)  
+[⌨Glorious Model O Wireless Video](https://www.youtube.com/watch?v=9B3cLne5g_g)  
+[⌨Glorious Model D Wireless Video](https://www.youtube.com/watch?v=o_eL-9ImsLw)  
+[⌨Gamakay Mk61 Software](https://www.youtube.com/watch?v=5sSL1Ze9Npk)  
+[⌨Lian Li Uni Fan 1.0SL](https://www.youtube.com/watch?v=wIdmHoPk-yM&t=393s)  
+[⌨Lian Li Uni Fan 2.0AL](https://www.youtube.com/watch?v=8dQ7X_shq_w)  
+[⌨Fan Esports Project](https://fananimation.netlify.app/)
+[⌨Keyboard Esports Project Keyboard RGB](https://demolistui.netlify.app/KeyBoard_RGB)  
+[⌨Keyboard Esports Project Keyboard numpad](https://demolistui.netlify.app/numpad-keyboard)  
+[⌨Keyboard Esports Project Keyboard Strike6](https://strike6.netlify.app/)  
+[⌨Keyboard Esports Project Keyboard perixx](https://demolistui.netlify.app/perixx)  
+[⌨Angular Side Project](https://demolistui.netlify.app/DemoListUI)  
+[⌨Freelance RWD Project](https://www.cupoy.com/openvino-2022)  
+[⌨React Side Project](https://reactwebsitepractice.netlify.app/)  
+[⌨Unity Gambling products](https://www.youtube.com/watch?v=rIM79ogfYr4&list=UUDMOsKP4fT1gHzU4y5iVuMA&index=9)  
 ---------⌨WebGame made by the university---------  
-[Game Web Works Made by the University - Website 1](http://watbud.ddns.net/ShowWebEffect/Website/Game/1.7)  
-[Game Web Works Made by the University - Website 2](http://watbud.ddns.net/ShowWebEffect/Website/Game/BlackWindows3.0)  
-[Game Web Works Made by the University - Website 3](http://watbud.ddns.net/ShowWebEffect/Website/Game/C2BrickBreaker)  
-[Game Web Works Made by the University - Website 4](http://watbud.ddns.net/ShowWebEffect/Website/Game/C2Peg%solitaire)  
-[Game Web Works Made by the University - Website 5](http://watbud.ddns.net/ShowWebEffect/Website/Game/C2RoachGame)  
-[Game Web Works Made by the University - Website 6](http://watbud.ddns.net/ShowWebEffect/Website/Game/C2Pingpong)  
-[Game Web Works Made by the University - Website 7](http://watbud.ddns.net/ShowWebEffect/Website/Game/CatchCat)  
-[Game Web Works Made by the University - Website 8](http://watbud.ddns.net/ShowWebEffect/Website/Game/C2POLICE)  
-[Game Web Works Made by the University - Website 9](http://watbud.ddns.net/ShowWebEffect/Website/Game)  
+[University Portfolio 1](http://watbud.ddns.net/ShowWebEffect/Website/Game/1.7)  
+[University Portfolio 2](http://watbud.ddns.net/ShowWebEffect/Website/Game/BlackWindows3.0)  
+[University Portfolio 3](http://watbud.ddns.net/ShowWebEffect/Website/Game/C2BrickBreaker)  
+[University Portfolio 4](http://watbud.ddns.net/ShowWebEffect/Website/Game/C2Peg%solitaire)  
+[University Portfolio 5](http://watbud.ddns.net/ShowWebEffect/Website/Game/C2RoachGame)  
+[University Portfolio 6](http://watbud.ddns.net/ShowWebEffect/Website/Game/C2Pingpong)  
+[University Portfolio 7](http://watbud.ddns.net/ShowWebEffect/Website/Game/CatchCat)  
+[University Portfolio 8](http://watbud.ddns.net/ShowWebEffect/Website/Game/C2POLICE)  
+[University Portfolio 9](http://watbud.ddns.net/ShowWebEffect/Website/Game)  
 
 
