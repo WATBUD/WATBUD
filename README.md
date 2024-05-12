@@ -95,7 +95,6 @@ Louis App Engineer
 [⌨C# WebAPI_Documentation](http://watbud.ddns.net:7777/api)
 <br>
 [⌨Node.js WebAPI_Documentation](http://watbud.ddns.net:9421)   
-[⌨Glorious core official ebsite](https://www.pcgamingrace.com/pages/glorious-core)  
 [⌨Next_FE_Portfolio](http://localhost:3000/language_practice_tool)  
 [⌨Glorious Model O Wireless Video](https://www.youtube.com/watch?v=9B3cLne5g_g)  
 [⌨Glorious Model D Wireless Video](https://www.youtube.com/watch?v=o_eL-9ImsLw)  
