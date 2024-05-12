@@ -96,6 +96,7 @@ Louis App Engineer
 <br>
 [⌨Node.js WebAPI_Documentation](http://watbud.ddns.net:9421)   
 [⌨Glorious core official ebsite](https://www.pcgamingrace.com/pages/glorious-core)  
+[⌨Next_FE_Portfolio](http://localhost:3000/language_practice_tool)  
 [⌨Glorious Model O Wireless Video](https://www.youtube.com/watch?v=9B3cLne5g_g)  
 [⌨Glorious Model D Wireless Video](https://www.youtube.com/watch?v=o_eL-9ImsLw)  
 [⌨Gamakay Mk61 Software](https://www.youtube.com/watch?v=5sSL1Ze9Npk)  
@@ -111,13 +112,11 @@ Louis App Engineer
 [⌨React Side Project](https://reactwebsitepractice.netlify.app/)  
 [⌨Unity Gambling products](https://www.youtube.com/watch?v=rIM79ogfYr4&list=UUDMOsKP4fT1gHzU4y5iVuMA&index=9)  
 [⌨University Portfolio 1](http://watbud.ddns.net/ShowWebEffect/Website/Game/1.7)  
-[⌨University Portfolio 2](http://watbud.ddns.net/ShowWebEffect/Website/Game/BlackWindows3.0)  
-[⌨University Portfolio 3](http://watbud.ddns.net/ShowWebEffect/Website/Game/C2BrickBreaker)  
-[⌨University Portfolio 4](http://watbud.ddns.net/ShowWebEffect/Website/Game/C2Peg%solitaire)  
-[⌨University Portfolio 5](http://watbud.ddns.net/ShowWebEffect/Website/Game/C2RoachGame)  
-[⌨University Portfolio 6](http://watbud.ddns.net/ShowWebEffect/Website/Game/C2Pingpong)  
-[⌨University Portfolio 7](http://watbud.ddns.net/ShowWebEffect/Website/Game/CatchCat)  
-[⌨University Portfolio 8](http://watbud.ddns.net/ShowWebEffect/Website/Game/C2POLICE)  
-[⌨University Portfolio 9](http://watbud.ddns.net/ShowWebEffect/Website/Game)  
+[⌨University Portfolio 2](http://watbud.ddns.net/ShowWebEffect/Website/Game/C2BrickBreaker)  
+[⌨University Portfolio 3](http://watbud.ddns.net/ShowWebEffect/Website/Game/C2RoachGame)  
+[⌨University Portfolio 4](http://watbud.ddns.net/ShowWebEffect/Website/Game/C2Pingpong)  
+[⌨University Portfolio 5](http://watbud.ddns.net/ShowWebEffect/Website/Game/CatchCat)  
+[⌨University Portfolio 6](http://watbud.ddns.net/ShowWebEffect/Website/Game/C2POLICE)  
+[⌨University Portfolio 7](http://watbud.ddns.net/ShowWebEffect/Website/Game)  
 
 
