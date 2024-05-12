@@ -95,7 +95,7 @@ Louis App Engineer
 [⌨C# WebAPI_Documentation](http://watbud.ddns.net:7777/api)
 <br>
 [⌨Node.js WebAPI_Documentation](http://watbud.ddns.net:9421)   
-[⌨Next_FE_Portfolio](http://localhost:3000/language_practice_tool)  
+[⌨Next_FE_Portfolio](https://nextshadcn14.vercel.app/language_practice_tool)
 [⌨Glorious Model O Wireless Video](https://www.youtube.com/watch?v=9B3cLne5g_g)  
 [⌨Glorious Model D Wireless Video](https://www.youtube.com/watch?v=o_eL-9ImsLw)  
 [⌨Gamakay Mk61 Software](https://www.youtube.com/watch?v=5sSL1Ze9Npk)  
