@@ -82,14 +82,12 @@ Louis App Engineer
 <br>Environment: Docker, IIS / Databases: MySQL, MSSQL, Git, Github, GitLab
 <br>Computer Skills: Windows 7 / 10 / 11 system, Microsoft Office suite (Excel, Word, PowerPoint), XAMPP, Windows Automation Program (bat / ps1 / exe / windows task Scheduler), Power Query, PowerShell, VBA Macro, PowerDirector
 <br>Hardware assembly / disassembly and system refill
-<br>PHP+MYSQL+XAMPP Front-end webpage and server setup
-<br>NETWebForm/MVC+MSSQL+IIS Front-end webpage and server setup
-<br>Unity3D+MYSQL+Python+Lua Gaming webpage, mobile game development
-<br>NETCore6+MYSQL/Docker+IIS+React Native FE and BE Server Setup
-<br>Angular FE Webpage and Node BE Server Setup
+<br>PHP+MYSQL+XAMPP setup
+<br>NETWebForm/MVC+MSSQL+IIS setup
+<br>Unity3D+MYSQL+Python+Lua Gaming webpage, mobile game development 
+<br>NETCore+MYSQL/Docker+IIS+React Native setup
 <br>Angular/Electron/Typescript/Node.js Computer headset, mouse, keyboard, software design and development
-<br>Develop automated reports and programs(bat/ps1/exe/windows task Scheduler)
-<br>Responsible for developing mobile phone dual-platform app (iOS & Android) with React Native. Maintain existing products, Git and related version control processes and team developers to continuously develop new functions.
+<br>automated reports and programs(bat/ps1/exe/windows task Scheduler)
 <br>
 [⌨Youtube teaching channel](https://www.youtube.com/playlist?list=PLqWQtwjE91RyJR2sKrK_-TXHVLCdrJno7)  
 [⌨C# WebAPI_Documentation](http://watbud.ddns.net:7777/api)
