@@ -77,17 +77,13 @@ alt="jenkins" width="40" height="40"/>
 ### My Resume  
 Louis App Engineer
 <BR>⌨Development experience: At least 8 years of software and web related experience: 
-<br>Languages: HTML, CSS, JavaScript, .NET, Node.js, PHP, C#, TypeScript
+<br>Languages: HTML, CSS, JavaScript, .NET, Node.js, PHP, C#, TypeScript,Python,Lua
 <br>Frameworks: Angular, Winform, .NET (MVC, Webform, API, Core), Unity3D, Construct 2, React, React Native, Electron
-<br>Environment: Docker, IIS / Databases: MySQL, MSSQL, Git, Github, GitLab
+<br>Environment: Docker, IIS , Git, Github, GitLab,XAMPP
+<br>Databases: MySQL, MSSQL
+<br>Automated programs:bat/ps1/exe/windows task Scheduler
 <br>Computer Skills: Windows 7 / 10 / 11 system, Microsoft Office suite (Excel, Word, PowerPoint), XAMPP, Windows Automation Program (bat / ps1 / exe / windows task Scheduler), Power Query, PowerShell, VBA Macro, PowerDirector
 <br>Hardware assembly / disassembly and system refill
-<br>PHP+MYSQL+XAMPP setup
-<br>NETWebForm/MVC+MSSQL+IIS setup
-<br>Unity3D+MYSQL+Python+Lua Gaming webpage, mobile game development 
-<br>NETCore+MYSQL/Docker+IIS+React Native setup
-<br>Angular/Electron/Typescript/Node.js Computer headset, mouse, keyboard, software design and development
-<br>automated reports and programs(bat/ps1/exe/windows task Scheduler)
 <br>
 [⌨Youtube teaching channel](https://www.youtube.com/playlist?list=PLqWQtwjE91RyJR2sKrK_-TXHVLCdrJno7)  
 [⌨C# WebAPI_Documentation](http://watbud.ddns.net:7777/api)
