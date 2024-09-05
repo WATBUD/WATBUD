@@ -85,7 +85,6 @@ Louis Software Engineer
 <br>Computer Skills: Windows 7 / 10 / 11 system, Microsoft Office suite (Excel, Word, PowerPoint), XAMPP, Windows Automation Program (bat / ps1 / exe / windows task Scheduler), Power Query, PowerShell, VBA Macro, PowerDirector
 <br>Hardware assembly / disassembly and system refill
 <br>
-[⌨SPT Open Source Project](https://github.com/side-project-taiwan/sideproj.tw-backend)  
 [⌨Youtube teaching channel](https://www.youtube.com/playlist?list=PLqWQtwjE91RyJR2sKrK_-TXHVLCdrJno7)  
 [⌨C# WebAPI_Documentation](http://watbud.ddns.net:7777/api)
 <br>
@@ -113,5 +112,6 @@ Louis Software Engineer
 [⌨University Portfolio 5](http://watbud.ddns.net/ShowWebEffect/Website/Game/CatchCat)  
 [⌨University Portfolio 6](http://watbud.ddns.net/ShowWebEffect/Website/Game/C2POLICE)  
 [⌨University Portfolio 7](http://watbud.ddns.net/ShowWebEffect/Website/Game)  
+[⌨SPT Open Source Project](https://github.com/side-project-taiwan/sideproj.tw-backend)  
 
 
