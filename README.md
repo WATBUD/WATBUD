@@ -74,16 +74,41 @@ alt="jenkins" width="40" height="40"/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WATBUD&layout=compact&theme=tokyonight&langs_count=20)
 
-### My Resume  
 Louis Software Engineer
-<BR>⌨Development experience: At least 8 years of software and web related experience: 
-<br>Languages: HTML, CSS, JavaScript, .NET, Node.js, PHP, C#, TypeScript,Python,Lua
-<br>Frameworks: Angular, Winform, .NET (MVC, Webform, API, Core), Unity3D, Construct 2, React, React Native, Electron
-<br>Environment: Docker, IIS , Git, Github, GitLab,XAMPP
-<br>Databases: MySQL, MSSQL
-<br>Automated programs:bat/ps1/exe/windows task Scheduler
-<br>Computer Skills: Windows 7 / 10 / 11 system, Microsoft Office suite (Excel, Word, PowerPoint), XAMPP, Windows Automation Program (bat / ps1 / exe / windows task Scheduler), Power Query, PowerShell, VBA Macro, PowerDirector
-<br>Hardware assembly / disassembly and system refill
+**Development Experience:**  
+At least 9 years of experience in software and network-related development, including mobile software, web, desktop software, and full-stack development.<br>
+
+**Languages:**  
+Golang, JavaScript, TypeScript, PHP, C#, HTML, CSS, SQL, VBA, PowerShell, Bash, C++<br>
+
+**Frameworks:**  
+Angular, React, React Native, Electron, Express.js, WinForms, .NET (MVC, WebForms, API, Core), Unity3D, Construct 2, Node.js, Gin, Goa<br>
+
+**Tools and Libraries:**  
+Swagger<br>
+
+**Environment:**  
+Docker, IIS<br>
+
+**Databases:**  
+MySQL, MSSQL<br>
+
+**Version Control:**  
+Git, GitHub, GitLab<br>
+
+**Computer Skills:**  
+Windows 7, 10, 11 systems<br>
+Microsoft Office suite (Excel, Word, PowerPoint)<br>
+XAMPP<br>
+Windows Automation Program (bat, ps1, exe, Windows Task Scheduler)<br>
+Power Query<br>
+PowerShell<br>
+VBA Macro<br>
+PowerDirector<br>
+
+**Hardware:**  
+Assembly, disassembly, and system refill
+
 <br>
 [⌨Unity Gambling products](https://www.youtube.com/watch?v=rIM79ogfYr4&list=UUDMOsKP4fT1gHzU4y5iVuMA&index=9)  
 [⌨C# WebAPI_Documentation](http://watbud.ddns.net:7777/api)
