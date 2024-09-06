@@ -67,15 +67,13 @@ alt="jenkins" width="40" height="40"/>
 
 # Languages and Tools  
 <!--  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WATBUD)](https://github.com/anuraghazra/github-readme-stats)-->
-
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WATBUD&layout=compact&theme=tokyonight&langs_count=20)
 
-Louis Software Engineer<br>
-**Development Experience:**  
+**Development Experience:**<br>
 At least 9 years of experience in software and network-related development, including mobile software, web, desktop software, and full-stack development.<br>
 
 **Languages:**  
@@ -107,9 +105,7 @@ VBA Macro<br>
 PowerDirector<br>
 
 **Hardware:**  
-Assembly, disassembly, and system refill
-<br>
-<br>
+Assembly, disassembly, and system refill<br><br>
 [⌨Unity Gambling products](https://www.youtube.com/watch?v=rIM79ogfYr4&list=UUDMOsKP4fT1gHzU4y5iVuMA&index=9)  
 [⌨C# WebAPI_Documentation](http://watbud.ddns.net:7777/api)
 <br>
