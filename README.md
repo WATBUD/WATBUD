@@ -85,7 +85,7 @@ Louis Software Engineer
 <br>Computer Skills: Windows 7 / 10 / 11 system, Microsoft Office suite (Excel, Word, PowerPoint), XAMPP, Windows Automation Program (bat / ps1 / exe / windows task Scheduler), Power Query, PowerShell, VBA Macro, PowerDirector
 <br>Hardware assembly / disassembly and system refill
 <br>
-[⌨Youtube teaching channel](https://www.youtube.com/playlist?list=PLqWQtwjE91RyJR2sKrK_-TXHVLCdrJno7)  
+[⌨Unity Gambling products](https://www.youtube.com/watch?v=rIM79ogfYr4&list=UUDMOsKP4fT1gHzU4y5iVuMA&index=9)  
 [⌨C# WebAPI_Documentation](http://watbud.ddns.net:7777/api)
 <br>
 [⌨Node.js WebAPI_Documentation](http://watbud.ddns.net:9421)   
@@ -96,6 +96,7 @@ Louis Software Engineer
 [⌨Gamakay Mk61 Software](https://www.youtube.com/watch?v=5sSL1Ze9Npk)  
 [⌨Lian Li Uni Fan 1.0SL](https://www.youtube.com/watch?v=wIdmHoPk-yM&t=393s)  
 [⌨Lian Li Uni Fan 2.0AL](https://www.youtube.com/watch?v=8dQ7X_shq_w)  
+[⌨Youtube teaching channel](https://www.youtube.com/playlist?list=PLqWQtwjE91RyJR2sKrK_-TXHVLCdrJno7)  
 [⌨Fan Esports Project](https://fananimation.netlify.app/)<br>
 [⌨Keyboard Esports Project RGB](https://demolistui.netlify.app/KeyBoard_RGB)  
 [⌨Keyboard Esports Project numpad](https://demolistui.netlify.app/numpad-keyboard)  
@@ -104,7 +105,6 @@ Louis Software Engineer
 [⌨Angular Side Project](https://demolistui.netlify.app/DemoListUI)  
 [⌨Freelance RWD Project](https://www.cupoy.com/openvino-2022)  
 [⌨React Side Project](https://reactwebsitepractice.netlify.app/)  
-[⌨Unity Gambling products](https://www.youtube.com/watch?v=rIM79ogfYr4&list=UUDMOsKP4fT1gHzU4y5iVuMA&index=9)  
 [⌨University Portfolio 1](http://watbud.ddns.net/ShowWebEffect/Website/Game/1.7)  
 [⌨University Portfolio 2](http://watbud.ddns.net/ShowWebEffect/Website/Game/C2BrickBreaker)  
 [⌨University Portfolio 3](http://watbud.ddns.net/ShowWebEffect/Website/Game/C2RoachGame)  
