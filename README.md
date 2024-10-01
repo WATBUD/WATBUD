@@ -110,7 +110,7 @@ Assembly, disassembly, and system refill<br><br>
 [⌨C#_BE_SideProject](http://watbud.ddns.net:7777/api)
 <br>
 [⌨Node_BE_SideProject](http://watbud.ddns.net:9421)   
-[⌨React-SideProject-LanguageTools](https://nextshadcn14.vercel.app/language_practice_tool)
+[⌨React-SideProject-LanguageTools](https://nextshadcn14.vercel.app/language_practice)
 <br>
 [⌨Glorious Model O Wireless Video](https://www.youtube.com/watch?v=9B3cLne5g_g)  
 [⌨Glorious Model D Wireless Video](https://www.youtube.com/watch?v=o_eL-9ImsLw)  
