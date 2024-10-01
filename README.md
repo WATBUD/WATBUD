@@ -114,9 +114,9 @@ Assembly, disassembly, and system refill<br><br>
 <br>
 [⌨Glorious Model O Wireless Video](https://www.youtube.com/watch?v=9B3cLne5g_g)  
 [⌨Glorious Model D Wireless Video](https://www.youtube.com/watch?v=o_eL-9ImsLw)  
-[⌨Gamakay Mk61 Software](https://www.youtube.com/watch?v=5sSL1Ze9Npk)  
-[⌨Lian Li Uni Fan 1.0SL](https://www.youtube.com/watch?v=wIdmHoPk-yM&t=393s)  
-[⌨Lian Li Uni Fan 2.0AL](https://www.youtube.com/watch?v=8dQ7X_shq_w)  
+[⌨Gamakay Mk61 Video]([https://www.youtube.com/watch?v=5sSL1Ze9Npk](https://www.youtube.com/watch?v=7FGG6xC8KL0))  
+[⌨Lian Li Uni Fan 1.0SL Video](https://www.youtube.com/watch?v=wIdmHoPk-yM&t=393s)  
+[⌨Lian Li Uni Fan 2.0AL Video](https://www.youtube.com/watch?v=8dQ7X_shq_w)  
 [⌨Youtube teaching channel](https://www.youtube.com/playlist?list=PLqWQtwjE91RyJR2sKrK_-TXHVLCdrJno7)  
 [⌨Fan Esports Project](https://fananimation.netlify.app/)<br>
 [⌨Keyboard Esports Project RGB](https://demolistui.netlify.app/KeyBoard_RGB)  
