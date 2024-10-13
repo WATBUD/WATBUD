@@ -84,7 +84,8 @@ Angular, React, React Native, Electron, Express.js, WinForms, .NET (MVC, WebForm
 
 **Tools and Libraries:**  
 Swagger<br>
-
+Mobx<br>
+Redux<br>
 **Environment:**  
 Docker, IIS<br>
 
