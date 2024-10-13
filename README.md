@@ -83,9 +83,8 @@ Golang, JavaScript, TypeScript, PHP, C#, HTML, CSS, SQL, VBA, PowerShell, Bash, 
 Angular, React, React Native, Electron, Express.js, WinForms, .NET (MVC, WebForms, API, Core), Unity3D, Construct 2, Node.js, Gin, Goa<br>
 
 **Tools and Libraries:**  
-Swagger<br>
-Mobx<br>
-Redux<br>
+Swagger,Mobx,Redux,Tailwind CSS<br>
+
 **Environment:**  
 Docker, IIS<br>
 
