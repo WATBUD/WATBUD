@@ -125,7 +125,6 @@ Assembly, disassembly, and system refill<br><br>
 [⌨Keyboard Esports Project perixx](https://demolistui.netlify.app/perixx)  
 [⌨Angular Side Project](https://demolistui.netlify.app/DemoListUI)  
 [⌨Freelance RWD Project](https://www.cupoy.com/openvino-2022)  
-[⌨React Side Project](https://reactwebsitepractice.netlify.app/)  
 [⌨University Portfolio 1](http://watbud.ddns.net/ShowWebEffect/Website/Game/1.7)  
 [⌨University Portfolio 2](http://watbud.ddns.net/ShowWebEffect/Website/Game/C2BrickBreaker)  
 [⌨University Portfolio 3](http://watbud.ddns.net/ShowWebEffect/Website/Game/C2RoachGame)  
