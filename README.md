@@ -132,7 +132,6 @@ Assembly, disassembly, and system refill<br><br>
 [⌨University Portfolio 4](http://watbud.ddns.net/ShowWebEffect/Website/Game/C2Pingpong)  
 [⌨University Portfolio 5](http://watbud.ddns.net/ShowWebEffect/Website/Game/CatchCat)  
 [⌨University Portfolio 6](http://watbud.ddns.net/ShowWebEffect/Website/Game/C2POLICE)  
-[⌨University Portfolio 7](http://watbud.ddns.net/ShowWebEffect/Website/Game)  
 [⌨SPT Open Source Project](https://github.com/side-project-taiwan/sideproj.tw-backend)  
 
 
