@@ -119,10 +119,10 @@ Assembly, disassembly, and system refill<br><br>
 [⌨Lian Li Uni Fan 2.0AL Video](https://www.youtube.com/watch?v=8dQ7X_shq_w)  
 [⌨Youtube teaching channel](https://www.youtube.com/playlist?list=PLqWQtwjE91RyJR2sKrK_-TXHVLCdrJno7)  
 [⌨Fan Esports Project](https://fananimation.netlify.app/)<br>
-[⌨Keyboard Esports Project RGB](https://demolistui.netlify.app/KeyBoard_RGB)  
-[⌨Keyboard Esports Project numpad](https://demolistui.netlify.app/numpad-keyboard)  
+[⌨Keyboard Esports Project RGB](https://watbud-angular.vercel.app/KeyBoard_RGB)  
+[⌨Keyboard Esports Project numpad](https://watbud-angular.vercel.app/numpad-keyboard)  
 [⌨Keyboard Esports Project Strike6](https://strike6.netlify.app/)  
-[⌨Keyboard Esports Project perixx](https://demolistui.netlify.app/perixx)  
+[⌨Keyboard Esports Project perixx](https://watbud-angular.vercel.app/perixx)  
 [⌨Freelance RWD Project](https://www.cupoy.com/openvino-2022)  
 [⌨University Portfolio 1](http://watbud.ddns.net/ShowWebEffect/Website/Game/1.7)  
 [⌨University Portfolio 2](http://watbud.ddns.net/ShowWebEffect/Website/Game/C2BrickBreaker)  
