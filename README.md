@@ -58,18 +58,10 @@ alt="jenkins" width="40" height="40"/>
 
 
 
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=watbud&" alt="watbud" /></p>
-
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=watbud&theme=ocean-gradient&hide_border=true&card_width=600)](https://git.io/streak-stats)
 
 
 # Languages and Tools  
-<!--  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WATBUD)](https://github.com/anuraghazra/github-readme-stats)-->
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WATBUD&layout=compact&theme=tokyonight&langs_count=20)
 
