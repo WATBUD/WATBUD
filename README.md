@@ -94,9 +94,9 @@ PowerDirector<br>
 **Hardware:**  
 Assembly, disassembly, and system refill<br><br>
 [⌨Unity-based Creations](https://www.youtube.com/watch?v=rIM79ogfYr4&list=UUDMOsKP4fT1gHzU4y5iVuMA&index=9)  
-[⌨C#_BE_SideProject](http://watbud.ddns.net:7777/api)
+[⌨C#_SideProject](http://watbud.ddns.net:7777/api)
 <br>
-[⌨Node_BE_SideProject](http://watbud.ddns.net:9421)   
+[⌨Node_SideProject](http://watbud.ddns.net:9421)   
 [⌨React-SideProject-LanguageTools](https://nextshadcn14.vercel.app)
 <br>
 [⌨Glorious Model O Wireless Video](https://www.youtube.com/watch?v=9B3cLne5g_g)  
