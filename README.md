@@ -66,7 +66,7 @@ At least 9 years of experience in software and network-related development, incl
 **Languages:**  
 Golang, JavaScript, TypeScript, PHP, C#, C++<br>
 
-**Scripting/Markup Languages**:
+**Scripting/Markup Languages:**  
 VBA, PowerShell, Bash, HTML, CSS<br>
 
 **Frameworks:**  
