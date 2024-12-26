@@ -67,16 +67,16 @@ At least 9 years of experience in software and network-related development, incl
 Golang, JavaScript, TypeScript, PHP, C#, C++<br>
 
 **Scripting/Markup Languages:**  
-VBA, PowerShell, Bash, HTML, CSS<br>
+VBA, PowerShell, Bash, HTML, CSS, Batch (.bat), PowerShell (.ps1)
 
 **Frameworks:**  
-Angular, React, React Native, Electron, Express.js, WinForms, .NET (MVC, WebForms, API, Core), Unity3D, Construct 2, Gin<br>
+Angular, React, React Native, Electron, Express.js, WinForms, .NET (MVC, WebForms, API, Core), Unity3D, Construct 2, Gin, Next<br>
 
 **Tools and Libraries:**  
 Swagger, Mobx, Redux, Tailwind CSS, Goa, Postman, Gorm, DBeaver, SSMS<br>
 
 **Environment:**  
-Docker, IIS, Vercel, GitHubPage,XAMPP,Node.js<br>
+Docker, IIS, Vercel, GitHub Pages, XAMPP, Node.js, Windows Task Scheduler<br>
 
 **Databases:**  
 MySQL, MSSQL, MongoDB<br>
@@ -87,7 +87,6 @@ Git, GitHub, GitLab, SoureTree<br>
 **Computer Skills:**  
 Windows 7, 10, 11 systems<br>
 Microsoft Office suite (Excel, Word, PowerPoint)<br>
-Windows Automation Program (bat, ps1, exe, Windows Task Scheduler)<br>
 PowerQuery/PowerDirector/Assembly/Disassembly/System Refill<br>
 
 [⌨Unity-based Creations](https://www.youtube.com/watch?v=rIM79ogfYr4&list=UUDMOsKP4fT1gHzU4y5iVuMA&index=9)  
