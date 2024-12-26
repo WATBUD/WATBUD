@@ -64,30 +64,29 @@ alt="jenkins" width="40" height="40"/>
 At least 9 years of experience in software and network-related development, including mobile software, web, desktop software, and full-stack development.<br>
 
 **Languages:**  
-Golang, JavaScript, TypeScript, PHP, C#, HTML, CSS, C++<br>
+Golang, JavaScript, TypeScript, PHP, C#, C++, HTML, CSS<br>
 
-** Scripting Languages**:
-- VBA, PowerShell, Bash<br>
+**Scripting Languages**:
+VBA, PowerShell, Bash<br>
 
 **Frameworks:**  
-Angular, React, React Native, Electron, Express.js, WinForms, .NET (MVC, WebForms, API, Core), Unity3D, Construct 2, Node.js, Gin, Goa<br>
+Angular, React, React Native, Electron, Express.js, WinForms, .NET (MVC, WebForms, API, Core), Unity3D, Construct 2, Gin<br>
 
 **Tools and Libraries:**  
-Swagger, Mobx, Redux, Tailwind CSS, SoureTree<br>
+Swagger, Mobx, Redux, Tailwind CSS, Goa, Postman, Gorm, DBeaver, SSMS<br>
 
 **Environment:**  
-Docker, IIS, Vercel, GitHubPage<br>
+Docker, IIS, Vercel, GitHubPage,XAMPP,Node.js<br>
 
 **Databases:**  
 MySQL, MSSQL, MongoDB<br>
 
 **Version Control:**  
-Git, GitHub, GitLab<br>
+Git, GitHub, GitLab, SoureTree<br>
 
 **Computer Skills:**  
 Windows 7, 10, 11 systems<br>
 Microsoft Office suite (Excel, Word, PowerPoint)<br>
-XAMPP<br>
 Windows Automation Program (bat, ps1, exe, Windows Task Scheduler)<br>
 Power Query<br>
 PowerDirector<br>
