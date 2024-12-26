@@ -64,16 +64,19 @@ alt="jenkins" width="40" height="40"/>
 At least 9 years of experience in software and network-related development, including mobile software, web, desktop software, and full-stack development.<br>
 
 **Languages:**  
-Golang, JavaScript, TypeScript, PHP, C#, HTML, CSS, SQL, VBA, PowerShell, Bash, C++<br>
+Golang, JavaScript, TypeScript, PHP, C#, HTML, CSS, C++<br>
+
+** Scripting Languages**:
+- VBA, PowerShell, Bash<br>
 
 **Frameworks:**  
 Angular, React, React Native, Electron, Express.js, WinForms, .NET (MVC, WebForms, API, Core), Unity3D, Construct 2, Node.js, Gin, Goa<br>
 
 **Tools and Libraries:**  
-Swagger,Mobx,Redux,Tailwind CSS<br>
+Swagger, Mobx, Redux, Tailwind CSS, SoureTree<br>
 
 **Environment:**  
-Docker, IIS<br>
+Docker, IIS, Vercel, GitHubPage<br>
 
 **Databases:**  
 MySQL, MSSQL, MongoDB<br>
@@ -87,12 +90,9 @@ Microsoft Office suite (Excel, Word, PowerPoint)<br>
 XAMPP<br>
 Windows Automation Program (bat, ps1, exe, Windows Task Scheduler)<br>
 Power Query<br>
-PowerShell<br>
-VBA Macro<br>
 PowerDirector<br>
+Assembly, disassembly, and system refill<br>
 
-**Hardware:**  
-Assembly, disassembly, and system refill<br><br>
 [⌨Unity-based Creations](https://www.youtube.com/watch?v=rIM79ogfYr4&list=UUDMOsKP4fT1gHzU4y5iVuMA&index=9)  
 [⌨C#_SideProject](http://watbud.ddns.net:7777/api)
 <br>
