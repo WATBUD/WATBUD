@@ -88,9 +88,7 @@ Git, GitHub, GitLab, SoureTree<br>
 Windows 7, 10, 11 systems<br>
 Microsoft Office suite (Excel, Word, PowerPoint)<br>
 Windows Automation Program (bat, ps1, exe, Windows Task Scheduler)<br>
-Power Query<br>
-PowerDirector<br>
-Assembly, disassembly, and system refill<br>
+PowerQuery/PowerDirector/Assembly/Disassembly/System Refill<br>
 
 [⌨Unity-based Creations](https://www.youtube.com/watch?v=rIM79ogfYr4&list=UUDMOsKP4fT1gHzU4y5iVuMA&index=9)  
 [⌨C#_SideProject](http://watbud.ddns.net:7777/api)
