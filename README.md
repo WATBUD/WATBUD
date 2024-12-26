@@ -67,7 +67,7 @@ At least 9 years of experience in software and network-related development, incl
 Golang, JavaScript, TypeScript, PHP, C#, C++<br>
 
 **Scripting/Markup Languages:**  
-VBA, PowerShell, Bash, HTML, CSS, Batch (.bat), PowerShell (.ps1)
+VBA, PowerShell, Bash, HTML, CSS, Batch, PowerShell
 
 **Frameworks:**  
 Angular, React, React Native, Electron, Express.js, WinForms, .NET (MVC, WebForms, API, Core), Unity3D, Construct 2, Gin, Next<br>
