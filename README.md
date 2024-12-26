@@ -64,10 +64,10 @@ alt="jenkins" width="40" height="40"/>
 At least 9 years of experience in software and network-related development, including mobile software, web, desktop software, and full-stack development.<br>
 
 **Languages:**  
-Golang, JavaScript, TypeScript, PHP, C#, C++, HTML, CSS<br>
+Golang, JavaScript, TypeScript, PHP, C#, C++<br>
 
-**Scripting Languages**:
-VBA, PowerShell, Bash<br>
+**Scripting/Markup Languages**:
+VBA, PowerShell, Bash, HTML, CSS<br>
 
 **Frameworks:**  
 Angular, React, React Native, Electron, Express.js, WinForms, .NET (MVC, WebForms, API, Core), Unity3D, Construct 2, Gin<br>
