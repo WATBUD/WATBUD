@@ -89,9 +89,7 @@ Windows 7, 10, 11 systems<br>
 Microsoft Office suite (Excel, Word, PowerPoint)<br>
 PowerQuery/PowerDirector/Assembly/Disassembly/System Refill<br>
 
-[⌨Unity-based Creations](https://www.youtube.com/watch?v=rIM79ogfYr4&list=UUDMOsKP4fT1gHzU4y5iVuMA&index=9)  
-
-<br>
+[⌨Unity-based Creations](https://www.youtube.com/watch?v=rIM79ogfYr4&list=UUDMOsKP4fT1gHzU4y5iVuMA&index=9)  <br>
 [⌨Node_SideProject](http://watbud.ddns.net:9421)   
 [⌨React-SideProject-LanguageTools](https://nextshadcn14.vercel.app)
 <br>
