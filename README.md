@@ -70,7 +70,7 @@ Golang, JavaScript, TypeScript, PHP, C#, C++<br>
 VBA, PowerShell, Bash, HTML, CSS, Batch, PowerShell
 
 **Frameworks:**  
-Frameworks: Angular, Construct 2, Electron, Express.js, Gin, Next, React, React Native, Unity3D, WinForms, .NET (API, Core, MVC, WebForms)<br>
+Angular, Construct 2, Electron, Express.js, Gin, Next, React, React Native, Unity3D, WinForms, .NET (API, Core, MVC, WebForms)<br>
 
 **Tools and Libraries:**  
 DBeaver, Gorm, Goa, Mobx, Postman, Redux, Swagger, Tailwind<br>
