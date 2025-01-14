@@ -22,10 +22,10 @@
 At least 9 years of experience in software and network-related development, including mobile software, web, desktop software, and full-stack development.<br>
 
 **Languages:**  
-Golang, JavaScript, TypeScript, C#, C++<br>
+Golang, JavaScript, TypeScript, C#<br>
 
 **Scripting/Markup Languages:**  
-VBA, PowerShell, Bash, HTML, CSS, Batch, PowerShell
+VBA, PowerShell, Bash, HTML, CSS, Batch
 
 **Frameworks:**  
 Angular, Construct 2, Electron, Express.js, Gin, Next, React, React Native, Unity3D, WinForms, .NET (API, Core, MVC, WebForms)<br>
@@ -34,7 +34,7 @@ Angular, Construct 2, Electron, Express.js, Gin, Next, React, React Native, Unit
 DBeaver, Gorm, Goa, Mobx, Postman, Redux, Swagger, Tailwind<br>
 
 **Environment:**  
-Docker, GitHub Pages, IIS, Node.js, Vercel, Windows Task Scheduler, XAMPP<br>
+Docker, GitHub Pages, IIS, Node.js, Vercel, Windows Task Scheduler<br>
 
 **Databases:**  
 MySQL, MSSQL, MongoDB<br>
