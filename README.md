@@ -19,27 +19,26 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WATBUD&layout=compact&theme=tokyonight&langs_count=20)  
 
 <p class="has-line-data" data-line-start="0" data-line-end="2">Development Experience:<br> At least 9 years of experience in software and network-related development, including mobile software, web, desktop software, and full-stack development.</p> <p class="has-line-data" data-line-start="3" data-line-end="5">Frontend:<br> React Native, React , Angular, Construct 2, Unity3D, WinForms, Tailwind CSS</p> <p class="has-line-data" data-line-start="6" data-line-end="8">State Managment:<br> MobX, Redux</p> <p class="has-line-data" data-line-start="9" data-line-end="11">Backend:<br> Swagger, Express.js, Postman, Golang, Gin, .NET (API, Core, MVC, WebForms), DBeaver, Gorm, Goa</p> <p class="has-line-data" data-line-start="12" data-line-end="14">Fullstack:<br> JavaScript, TypeScript, C#, Next, Electron</p> <p class="has-line-data" data-line-start="15" data-line-end="17">Databases:<br> MySQL, MSSQL, MongoDB</p> <p class="has-line-data" data-line-start="18" data-line-end="20">Version Control:<br> Git, GitHub, GitLab, SoureTree</p> <p class="has-line-data" data-line-start="21" data-line-end="23">Environment:<br> Docker, GitHub Pages, IIS, Node.js, Vercel, Windows Task Scheduler</p>
-[⌨Unity-based Creations](https://www.youtube.com/watch?v=rIM79ogfYr4&list=UUDMOsKP4fT1gHzU4y5iVuMA&index=9)  <br>
-[⌨Node_SideProject](http://watbud.duckdns.org:9421)   
-[⌨React-SideProject-LanguageTools](https://nextshadcn14.vercel.app)  
-<br>
-[⌨Glorious Model O Wireless Video](https://www.youtube.com/watch?v=9B3cLne5g_g)  
+[⌨Unity-based Creations](https://www.youtube.com/watch?v=rIM79ogfYr4&list=UUDMOsKP4fT1gHzU4y5iVuMA&index=9)<br>
+[⌨Node_SideProject](http://watbud.duckdns.org:9421)<br>
+[⌨React-SideProject-LanguageTools](https://nextshadcn14.vercel.app)<br>
+[⌨Glorious Model O Wireless Video](https://www.youtube.com/watch?v=9B3cLne5g_g)<br>
 [⌨Glorious Model D Wireless Video](https://www.youtube.com/watch?v=o_eL-9ImsLw)<br>
 [⌨Gamakay Mk61 Video](https://www.youtube.com/watch?v=7FGG6xC8KL0)<br>
-[⌨Lian Li Uni Fan 1.0SL Video](https://www.youtube.com/watch?v=wIdmHoPk-yM&t=393s)  
-[⌨Lian Li Uni Fan 2.0AL Video](https://www.youtube.com/watch?v=8dQ7X_shq_w)  
-[⌨Youtube teaching channel](https://www.youtube.com/playlist?list=PLqWQtwjE91RyJR2sKrK_-TXHVLCdrJno7)  
+[⌨Lian Li Uni Fan 1.0SL Video](https://www.youtube.com/watch?v=wIdmHoPk-yM&t=393s)<br>
+[⌨Lian Li Uni Fan 2.0AL Video](https://www.youtube.com/watch?v=8dQ7X_shq_w)<br>
+[⌨Youtube teaching channel](https://www.youtube.com/playlist?list=PLqWQtwjE91RyJR2sKrK_-TXHVLCdrJno7)<br>
 [⌨Fan Esports Project](https://fananimation.netlify.app/)<br>
-[⌨Keyboard Esports Project RGB](https://watbud-angular.vercel.app/KeyBoard_RGB)  
-[⌨Keyboard Esports Project numpad](https://watbud-angular.vercel.app/numpad-keyboard)  
-[⌨Keyboard Esports Project Strike6](https://strike6.netlify.app/)  
-[⌨Keyboard Esports Project perixx](https://watbud-angular.vercel.app/perixx)  
-[⌨Freelance RWD Project](https://www.cupoy.com/openvino-2022)  
-[⌨University Portfolio 1](http://watbud.duckdns.org/ShowWebEffect/Website/Game/1.7)  
-[⌨University Portfolio 2](http://watbud.duckdns.org/ShowWebEffect/Website/Game/C2BrickBreaker)  
-[⌨University Portfolio 3](http://watbud.duckdns.org/ShowWebEffect/Website/Game/C2RoachGame)  
+[⌨Keyboard Esports Project RGB](https://watbud-angular.vercel.app/KeyBoard_RGB)<br>
+[⌨Keyboard Esports Project numpad](https://watbud-angular.vercel.app/numpad-keyboard)<br>
+[⌨Keyboard Esports Project Strike6](https://strike6.netlify.app/)<br>
+[⌨Keyboard Esports Project perixx](https://watbud-angular.vercel.app/perixx)<br>
+[⌨Freelance RWD Project](https://www.cupoy.com/openvino-2022)<br>
+[⌨University Portfolio 1](http://watbud.duckdns.org/ShowWebEffect/Website/Game/1.7)<br>
+[⌨University Portfolio 2](http://watbud.duckdns.org/ShowWebEffect/Website/Game/C2BrickBreaker)<br>
+[⌨University Portfolio 3](http://watbud.duckdns.org/ShowWebEffect/Website/Game/C2RoachGame)<br>
 [⌨University Portfolio 4](http://watbud.duckdns.org/ShowWebEffect/Website/Game/C2Pingpong)<br>
 [⌨University Portfolio 5](http://watbud.duckdns.org/ShowWebEffect/Website/Game/C2POLICE)<br>
-[⌨SPT Open Source Project](https://github.com/side-project-taiwan/sideproj.tw-backend)  
+[⌨SPT Open Source Project](https://github.com/side-project-taiwan/sideproj.tw-backend)<br>
 
 
