@@ -35,7 +35,7 @@
 [⌨Keyboard Esports Project Strike6](https://strike6.netlify.app/)<br>
 [⌨Keyboard Esports Project perixx](https://watbud-angular.vercel.app/perixx)<br>
 [⌨Freelance RWD Project](https://www.cupoy.com/openvino-2022)<br>
-[⌨Freelance RWD Project]([https://www.cupoy.com/openvino-2022](https://code-compendium.vercel.app/))<br>
+[⌨Code-Compendium]([https://www.cupoy.com/openvino-2022](https://code-compendium.vercel.app/))<br>
 [⌨University Portfolio 1](http://watbud.duckdns.org/ShowWebEffect/Website/Game/1.7)<br>
 [⌨University Portfolio 2](http://watbud.duckdns.org/ShowWebEffect/Website/Game/C2BrickBreaker)<br>
 [⌨University Portfolio 4](http://watbud.duckdns.org/ShowWebEffect/Website/Game/C2Pingpong)<br>
