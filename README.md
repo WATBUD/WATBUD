@@ -40,6 +40,5 @@
 [⌨University Portfolio 3](http://watbud.duckdns.org/ShowWebEffect/Website/Game/C2RoachGame)<br>
 [⌨University Portfolio 4](http://watbud.duckdns.org/ShowWebEffect/Website/Game/C2Pingpong)<br>
 [⌨University Portfolio 5](http://watbud.duckdns.org/ShowWebEffect/Website/Game/C2POLICE)<br>
-[⌨SPT Open Source Project](https://github.com/side-project-taiwan/sideproj.tw-backend)<br>
 
 
