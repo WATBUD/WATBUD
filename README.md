@@ -38,7 +38,7 @@
 [⌨Code-Compendium](https://code-compendium.vercel.app/)<br>
 [⌨University Portfolio 1](http://watbud.duckdns.org/ShowWebEffect/Website/Game/1.7)<br>
 [⌨University Portfolio 2](http://watbud.duckdns.org/ShowWebEffect/Website/Game/C2BrickBreaker)<br>
-[⌨University Portfolio 4](http://watbud.duckdns.org/ShowWebEffect/Website/Game/C2Pingpong)<br>
-[⌨University Portfolio 5](http://watbud.duckdns.org/ShowWebEffect/Website/Game/C2POLICE)<br>
+[⌨University Portfolio 3](http://watbud.duckdns.org/ShowWebEffect/Website/Game/C2Pingpong)<br>
+[⌨University Portfolio 4](http://watbud.duckdns.org/ShowWebEffect/Website/Game/C2POLICE)<br>
 
 
