@@ -35,5 +35,6 @@
 [⌨University Portfolio 2](http://watbud.duckdns.org/ShowWebEffect/Website/Game/C2BrickBreaker)<br>
 [⌨University Portfolio 3](http://watbud.duckdns.org/ShowWebEffect/Website/Game/C2Pingpong)<br>
 [⌨University Portfolio 4](http://watbud.duckdns.org/ShowWebEffect/Website/Game/C2POLICE)<br>
+[⌨Shuiling - Independently Developed RPG Game](https://github.com/WATBUD/shuiling-releases/releases)<br>
 
 
