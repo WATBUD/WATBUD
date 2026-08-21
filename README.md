@@ -67,8 +67,9 @@
 
 ## 🔗 Projects & Links
 
-| Item | Type | Open |
+| Item | Type | Link |
 | --- | --- | --- |
+| **Electron Git UI** — self-built Git GUI desktop app (Electron) | 💻 Desktop | [Code](https://github.com/WATBUD/electron-git-ui) |
 | **Stock Tracker (Watchlab)** — TWSE watchlist + Bollinger screener | 🌐 Web app | [Open](https://watchlab-lovat.vercel.app/) |
 | **Node Express Backend** — REST API (Node / Express / Prisma) | 🌐 Web app | [Open](https://node-express-backend-auqk.onrender.com/) |
 | **Language Tools** — React + shadcn side project | 🌐 Web app | [Open](https://nextshadcn14.vercel.app) |
