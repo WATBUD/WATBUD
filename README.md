@@ -8,7 +8,7 @@
 
 - 🔭 **11+ years** across software & network development — mobile software, web, desktop, and full-stack.
 - 🎮 Indie game developer — creator of **[Shuiling](https://github.com/WATBUD/shuiling-releases/releases)**, an independently developed RPG.
-- ⌨️ Hardware / esports content creator — mechanical keyboards, mice & cooling on [YouTube](https://www.youtube.com/playlist?list=PLqWQtwjE91RyJR2sKrK_-TXHVLCdrJno7).
+- 🎓 Content creator — **programming tutorials & game design** on [YouTube](https://www.youtube.com/playlist?list=PLqWQtwjE91RyJR2sKrK_-TXHVLCdrJno7).
 - 🌱 Always shipping side projects with React / Next.js / Node / Go / .NET.
 
 ---
@@ -85,7 +85,7 @@
 | **Keyboard Esports — Strike6** | 🕹️ Web demo | [Open](https://strike6.netlify.app/) |
 | **Keyboard Esports — Perixx** | 🕹️ Web demo | [Open](https://watbud-angular.vercel.app/perixx) |
 | **Unity-based Creations** (playlist) | 📺 YouTube | [Watch](https://www.youtube.com/watch?v=rIM79ogfYr4&list=UUDMOsKP4fT1gHzU4y5iVuMA&index=9) |
-| **YouTube Teaching Channel** | 📺 YouTube | [Watch](https://www.youtube.com/playlist?list=PLqWQtwjE91RyJR2sKrK_-TXHVLCdrJno7) |
+| **Programming & Game-Design Tutorials** | 📺 YouTube | [Watch](https://www.youtube.com/playlist?list=PLqWQtwjE91RyJR2sKrK_-TXHVLCdrJno7) |
 | **Glorious Model O Wireless** | 📺 YouTube | [Watch](https://www.youtube.com/watch?v=9B3cLne5g_g) |
 | **Glorious Model D Wireless** | 📺 YouTube | [Watch](https://www.youtube.com/watch?v=o_eL-9ImsLw) |
 | **Gamakay Mk61** | 📺 YouTube | [Watch](https://www.youtube.com/watch?v=7FGG6xC8KL0) |
