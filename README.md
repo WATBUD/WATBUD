@@ -7,7 +7,7 @@
 ## 👋 About Me
 
 - 🔭 **11+ years** across software & network development — mobile software, web, desktop, and full-stack.
-- 🎮 Indie game developer (Unity3D) — creator of **[Shuiling](https://github.com/WATBUD/shuiling-releases/releases)**, an independently developed RPG.
+- 🎮 Indie game developer — creator of **[Shuiling](https://github.com/WATBUD/shuiling-releases/releases)**, an independently developed RPG.
 - ⌨️ Hardware / esports content creator — mechanical keyboards, mice & cooling on [YouTube](https://www.youtube.com/playlist?list=PLqWQtwjE91RyJR2sKrK_-TXHVLCdrJno7).
 - 🌱 Always shipping side projects with React / Next.js / Node / Go / .NET.
 
