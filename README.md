@@ -71,52 +71,31 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🔗 Projects & Links
 
-- **[Stock Tracker (Watchlab)](https://watchlab-lovat.vercel.app/)** — full-stack TWSE watchlist + Bollinger screener.
-- **[Node Express Backend](https://node-express-backend-auqk.onrender.com/)** — REST API (Node.js / Express / Prisma).
-- **[Language Tools](https://nextshadcn14.vercel.app)** — React + shadcn side project.
-- **[Code Compendium](https://code-compendium.vercel.app/)** — personal code / knowledge base.
-- **[Shuiling](https://github.com/WATBUD/shuiling-releases/releases)** — independently developed RPG game.
-- **[Freelance RWD (OpenVINO 2022)](https://www.cupoy.com/openvino-2022)** — responsive web project.
-
----
-
-## 🎮 Games & Interactive
-
-- 🎬 [Unity-based Creations (playlist)](https://www.youtube.com/watch?v=rIM79ogfYr4&list=UUDMOsKP4fT1gHzU4y5iVuMA&index=9)
-- 🕹️ University Portfolio: [Game 1.7](http://watbud.duckdns.org/ShowWebEffect/Website/Game/1.7) — [BrickBreaker](http://watbud.duckdns.org/ShowWebEffect/Website/Game/C2BrickBreaker) — [Pingpong](http://watbud.duckdns.org/ShowWebEffect/Website/Game/C2Pingpong) — [Police](http://watbud.duckdns.org/ShowWebEffect/Website/Game/C2POLICE)
-
----
-
-## ⌨️ Hardware & Esports Showcases
-
-<details>
-<summary><b>Interactive web showcases</b></summary>
-
-- [Fan Esports Project](https://fananimation.netlify.app/)
-- [Keyboard Esports — RGB](https://watbud-angular.vercel.app/KeyBoard_RGB)
-- [Keyboard Esports — Numpad](https://watbud-angular.vercel.app/numpad-keyboard)
-- [Keyboard Esports — Strike6](https://strike6.netlify.app/)
-- [Keyboard Esports — Perixx](https://watbud-angular.vercel.app/perixx)
-
-</details>
-
-<details>
-<summary><b>Review / showcase videos</b></summary>
-
-- [Glorious Model O Wireless](https://www.youtube.com/watch?v=9B3cLne5g_g)
-- [Glorious Model D Wireless](https://www.youtube.com/watch?v=o_eL-9ImsLw)
-- [Gamakay Mk61](https://www.youtube.com/watch?v=7FGG6xC8KL0)
-- [Lian Li Uni Fan 1.0 SL](https://www.youtube.com/watch?v=wIdmHoPk-yM&t=393s)
-- [Lian Li Uni Fan 2.0 AL](https://www.youtube.com/watch?v=8dQ7X_shq_w)
-
-</details>
-
----
-
-## 📺 YouTube
-
-- [YouTube Teaching Channel](https://www.youtube.com/playlist?list=PLqWQtwjE91RyJR2sKrK_-TXHVLCdrJno7)
+| Item | Type | Open |
+| --- | --- | --- |
+| **Stock Tracker (Watchlab)** — TWSE watchlist + Bollinger screener | 🌐 Web app | [Open](https://watchlab-lovat.vercel.app/) |
+| **Node Express Backend** — REST API (Node / Express / Prisma) | 🌐 Web app | [Open](https://node-express-backend-auqk.onrender.com/) |
+| **Language Tools** — React + shadcn side project | 🌐 Web app | [Open](https://nextshadcn14.vercel.app) |
+| **Code Compendium** — code / knowledge base | 🌐 Web app | [Open](https://code-compendium.vercel.app/) |
+| **Freelance RWD** — OpenVINO 2022 responsive site | 🌐 Web app | [Open](https://www.cupoy.com/openvino-2022) |
+| **Shuiling** — independently developed RPG game | 📦 Release | [Download](https://github.com/WATBUD/shuiling-releases/releases) |
+| **University Portfolio — Game 1.7** | 🕹️ Web demo | [Open](http://watbud.duckdns.org/ShowWebEffect/Website/Game/1.7) |
+| **University Portfolio — BrickBreaker** | 🕹️ Web demo | [Open](http://watbud.duckdns.org/ShowWebEffect/Website/Game/C2BrickBreaker) |
+| **University Portfolio — Pingpong** | 🕹️ Web demo | [Open](http://watbud.duckdns.org/ShowWebEffect/Website/Game/C2Pingpong) |
+| **University Portfolio — Police** | 🕹️ Web demo | [Open](http://watbud.duckdns.org/ShowWebEffect/Website/Game/C2POLICE) |
+| **Fan Esports Project** | 🕹️ Web demo | [Open](https://fananimation.netlify.app/) |
+| **Keyboard Esports — RGB** | 🕹️ Web demo | [Open](https://watbud-angular.vercel.app/KeyBoard_RGB) |
+| **Keyboard Esports — Numpad** | 🕹️ Web demo | [Open](https://watbud-angular.vercel.app/numpad-keyboard) |
+| **Keyboard Esports — Strike6** | 🕹️ Web demo | [Open](https://strike6.netlify.app/) |
+| **Keyboard Esports — Perixx** | 🕹️ Web demo | [Open](https://watbud-angular.vercel.app/perixx) |
+| **Unity-based Creations** (playlist) | 📺 YouTube | [Watch](https://www.youtube.com/watch?v=rIM79ogfYr4&list=UUDMOsKP4fT1gHzU4y5iVuMA&index=9) |
+| **YouTube Teaching Channel** | 📺 YouTube | [Watch](https://www.youtube.com/playlist?list=PLqWQtwjE91RyJR2sKrK_-TXHVLCdrJno7) |
+| **Glorious Model O Wireless** | 📺 YouTube | [Watch](https://www.youtube.com/watch?v=9B3cLne5g_g) |
+| **Glorious Model D Wireless** | 📺 YouTube | [Watch](https://www.youtube.com/watch?v=o_eL-9ImsLw) |
+| **Gamakay Mk61** | 📺 YouTube | [Watch](https://www.youtube.com/watch?v=7FGG6xC8KL0) |
+| **Lian Li Uni Fan 1.0 SL** | 📺 YouTube | [Watch](https://www.youtube.com/watch?v=wIdmHoPk-yM&t=393s) |
+| **Lian Li Uni Fan 2.0 AL** | 📺 YouTube | [Watch](https://www.youtube.com/watch?v=8dQ7X_shq_w) |
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,50:7aa2f7,100:1a1b27&height=120&section=footer" width="100%" alt="footer" />
