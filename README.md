@@ -9,7 +9,7 @@
 - 🔭 **11+ years** across software & network development — mobile software, web, desktop, and full-stack.
 - 🎮 Indie game developer — creator of **[Shuiling](https://github.com/WATBUD/shuiling-releases/releases)**, an independently developed RPG.
 - 🎓 Content creator — **programming tutorials & game design** on [YouTube](https://www.youtube.com/playlist?list=PLqWQtwjE91RyJR2sKrK_-TXHVLCdrJno7).
-- 🌱 Always shipping side projects with React / Next.js / Node / Go / .NET.
+- 💼 Recent role: **Mobile Senior Engineer** — primarily **React Native**, plus side projects in React / Next.js / Node / Go / .NET.
 
 ---
 
