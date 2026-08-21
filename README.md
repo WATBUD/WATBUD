@@ -1,12 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:7aa2f7,100:bb9af7&height=200&section=header&text=Louis%20(WATBUD)&fontColor=c0caf5&fontSize=54&fontAlignY=38&desc=Full-stack%20Engineer%20-%20Mobile%20-%20Web%20-%20Desktop%20-%20Game%20Dev&descSize=18&descAlignY=62&animation=fadeIn" width="100%" alt="header" />
 
-<a href="https://github.com/WATBUD"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&vCenter=true&width=720&lines=11%2B+years+of+software+%26+network+development;Mobile+%7C+Web+%7C+Desktop+%7C+Full-stack;React+Native+%7C+React+%7C+Angular+%7C+.NET+%7C+Go+%7C+Node.js;Unity3D+game+dev+%26+indie+creator" alt="roles" /></a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=watbud&label=Profile%20views&color=7aa2f7&style=flat-square" alt="profile views" />
-<img src="https://img.shields.io/badge/Focus-Full--stack-7aa2f7?style=flat-square&labelColor=1a1b27" alt="focus" />
-<img src="https://img.shields.io/badge/Game%20Dev-Unity3D-bb9af7?style=flat-square&labelColor=1a1b27" alt="unity" />
+<a href="https://github.com/WATBUD"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=600&color=7AA2F7&vCenter=true&width=720&lines=11%2B+years+of+software+%26+network+development;Mobile+%7C+Web+%7C+Desktop+%7C+Full-stack;React+Native+%7C+React+%7C+Angular+%7C+.NET+%7C+Go+%7C+Node.js;Unity3D+game+dev+%26+indie+creator" alt="roles" /></a>
 
 ---
 
