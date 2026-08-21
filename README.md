@@ -75,10 +75,6 @@
 | **Code Compendium** — code / knowledge base | 🌐 Web app | [Open](https://code-compendium.vercel.app/) |
 | **Freelance RWD** — OpenVINO 2022 responsive site | 🌐 Web app | [Open](https://www.cupoy.com/openvino-2022) |
 | **Shuiling** — independently developed RPG game | 📦 Release | [Download](https://github.com/WATBUD/shuiling-releases/releases) |
-| **University Portfolio — Game 1.7** | 🕹️ Web demo | [Open](http://watbud.duckdns.org/ShowWebEffect/Website/Game/1.7) |
-| **University Portfolio — BrickBreaker** | 🕹️ Web demo | [Open](http://watbud.duckdns.org/ShowWebEffect/Website/Game/C2BrickBreaker) |
-| **University Portfolio — Pingpong** | 🕹️ Web demo | [Open](http://watbud.duckdns.org/ShowWebEffect/Website/Game/C2Pingpong) |
-| **University Portfolio — Police** | 🕹️ Web demo | [Open](http://watbud.duckdns.org/ShowWebEffect/Website/Game/C2POLICE) |
 | **Fan Esports Project** | 🕹️ Web demo | [Open](https://fananimation.netlify.app/) |
 | **Keyboard Esports — RGB** | 🕹️ Web demo | [Open](https://watbud-angular.vercel.app/KeyBoard_RGB) |
 | **Keyboard Esports — Numpad** | 🕹️ Web demo | [Open](https://watbud-angular.vercel.app/numpad-keyboard) |
@@ -91,5 +87,9 @@
 | **Gamakay Mk61** | 📺 YouTube | [Watch](https://www.youtube.com/watch?v=7FGG6xC8KL0) |
 | **Lian Li Uni Fan 1.0 SL** | 📺 YouTube | [Watch](https://www.youtube.com/watch?v=wIdmHoPk-yM&t=393s) |
 | **Lian Li Uni Fan 2.0 AL** | 📺 YouTube | [Watch](https://www.youtube.com/watch?v=8dQ7X_shq_w) |
+| **University Portfolio — Game 1.7** | 🕹️ Web demo | [Open](http://watbud.duckdns.org/ShowWebEffect/Website/Game/1.7) |
+| **University Portfolio — BrickBreaker** | 🕹️ Web demo | [Open](http://watbud.duckdns.org/ShowWebEffect/Website/Game/C2BrickBreaker) |
+| **University Portfolio — Pingpong** | 🕹️ Web demo | [Open](http://watbud.duckdns.org/ShowWebEffect/Website/Game/C2Pingpong) |
+| **University Portfolio — Police** | 🕹️ Web demo | [Open](http://watbud.duckdns.org/ShowWebEffect/Website/Game/C2POLICE) |
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,50:7aa2f7,100:1a1b27&height=120&section=footer" width="100%" alt="footer" />
